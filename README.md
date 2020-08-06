@@ -1,5 +1,4 @@
 # Reading Tracking App
-MyReads web app is created using React.js as a part of the [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
 You can have three feature to track:
 - Currently Reading
